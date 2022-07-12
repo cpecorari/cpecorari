@@ -7,5 +7,5 @@
 🌱 I’m currently learning everything i can
 
 
-📫 You can contact me on my linkedIn
+📫 You can contact me on my linkedIn & 
 https://come.pecorari.fr
