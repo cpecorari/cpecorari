@@ -31,6 +31,7 @@
 
 ### Front
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/react-native.svg)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
@@ -39,6 +40,7 @@
 
 ### Testing
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Hardhat](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/hardhat.svg)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 ### Versionning / CICD
