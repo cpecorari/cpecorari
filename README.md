@@ -31,19 +31,13 @@
 
 ### Blockchain
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Hardhat](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/hardhat.svg)
+![Hardhat](https://hardhat.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhardhat-logo-dark.484eb916.svg)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Ethers.js](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/ethersjs.svg)
 ![Alchemy](https://img.shields.io/static/v1?style=for-the-badge&message=Alchemy&color=0C0C0E&logo=Alchemy&logoColor=FFFFFF&label=)
-![Flashbots](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/flashbots.svg)
+![Flashbots](https://docs.flashbots.net/img/brand-assets/flashbots_logo_dark.svg)
 ![Chainlink](https://img.shields.io/static/v1?style=for-the-badge&message=Chainlink&color=375BD2&logo=Chainlink&logoColor=FFFFFF&label=)
 ![OpenSea](https://img.shields.io/static/v1?style=for-the-badge&message=OpenSea&color=2081E2&logo=OpenSea&logoColor=FFFFFF&label=)
 ![OpenZeppelin](https://img.shields.io/static/v1?style=for-the-badge&message=OpenZeppelin&color=4E5EE4&logo=OpenZeppelin&logoColor=FFFFFF&label=)
-![AAVE](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/aave.svg)
-![ENS](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/ens.svg)
-![TheGraph](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/thegraph.svg)
-![Uniswap](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/uniswap.svg)
-![Kleros](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/kleros.svg)
 
 ### Front
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -56,7 +50,7 @@
 
 ### Testing
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
-![Hardhat](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/hardhat.svg)
+![Hardhat](https://hardhat.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhardhat-logo-dark.484eb916.svg)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 ### Versionning / CICD
